@@ -1,2 +1,4 @@
 /avconfig.h
 /ffversion.h
+.build
+.swiftpm
